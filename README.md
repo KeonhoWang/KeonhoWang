@@ -28,87 +28,55 @@
 
 ## 👨‍💻 About Me
 
+I'm a **Software Engineering student at the University of Europe for Applied Sciences** with a strong interest in building software that is both practical and meaningful.
+
+I enjoy taking an idea from **concept → code → working product**, whether that's a web application, automation tool, browser extension, or an AI-powered system.
+
+My interests have gradually grown from traditional software development into **AI/ML, computer vision, cloud technologies, and full-stack development**. I especially enjoy experimenting with technologies that allow software to interact with the real world and solve everyday problems.
+
+I've worked with different programming languages and frameworks through university projects, personal projects, and independent learning. These experiences have taught me that being a good developer isn't only about knowing a technology — it's about **understanding problems, learning quickly, working with others, and continuously improving the solution.**
+
+Currently, I'm focused on strengthening my **full-stack and AI/ML development skills** and building projects that challenge me to learn something new.
+
 ```javascript
 const keonho = {
-    education: "Software Engineering",
-    university: "University of Europe for Applied Sciences",
-    location: "Germany 🇩🇪 / South Korea 🇰🇷",
+    field: "Software Engineering",
 
     interests: [
-        "Software Engineering",
         "Full-Stack Development",
         "Artificial Intelligence",
         "Machine Learning",
         "Computer Vision",
-        "Cloud Technologies"
+        "Cloud Technologies",
+        "Automation"
     ],
 
     currentlyLearning: [
         "React",
         "TypeScript",
-        "Full-Stack Development"
+        "Full-Stack Development",
+        "AI/ML"
     ],
 
-    goal: "Build useful software and keep learning 🚀"
+    mindset: "Build. Learn. Improve. Repeat. 🚀"
 };
 ```
-
-I'm a **Software Engineering student** passionate about turning ideas into practical software.
-
-I enjoy building projects across **web development, AI/ML, automation, and computer vision**, while continuously exploring new technologies and improving my development skills.
 
 ---
 
 ## 🚀 What I'm Working On
 
 🌤️ **Temposfera**
-A weather application & website focused on delivering a clean and interactive weather experience.
+A weather application & website focused on creating a clean, intuitive, and interactive weather experience.
 
-🧠 **AI & Computer Vision**
-Exploring practical applications of Python, OpenCV, MediaPipe, and machine learning.
+🧠 **AI & Machine Learning**
+Exploring practical AI applications with Python, machine learning, computer vision, and data-driven problem solving.
 
-⚛️ **Modern Web Development**
-Currently expanding my skills with React, TypeScript, and full-stack development.
+⚛️ **Full-Stack Development**
+Building stronger skills in React, TypeScript, Node.js, and modern web application architecture.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,html,css" />
-</p>
-
-### ⚛️ Frameworks & Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
-</p>
-
-### 🤖 AI / Data / Computer Vision
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### ☁️ Cloud & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
-</p>
-
-### 🎨 Design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+🔨 **Personal Projects**
+Continuously building and experimenting with new ideas to turn concepts into working software.
 
 ---
 
@@ -124,7 +92,7 @@ Currently expanding my skills with React, TypeScript, and full-stack development
 
 ### 🖐️ Hand Gesture Controller
 
-> A computer-control system that uses real-time hand gesture recognition.
+> A computer-control system that uses real-time hand gesture recognition to interact with a computer.
 
 **Built with:**
 `Python` · `MediaPipe` · `OpenCV` · `PyAutoGUI` · `NumPy`
@@ -136,7 +104,7 @@ Currently expanding my skills with React, TypeScript, and full-stack development
 * ☀️ Brightness control
 * 🖱️ Air Mouse
 * 📸 Screenshot control
-* 🗂️ Tab navigation
+* 🗂️ Browser tab navigation
 * 🤖 Real-time gesture recognition
 
 ---
@@ -164,6 +132,41 @@ https://github.com/KeonhoWang/ambient-app
 
 ---
 
+### 🧠 Echo — AI Memory for Your Computer
+
+> A local AI-powered semantic search system that helps users find information across their documents using natural-language queries.
+
+**Built with:**
+`Python` · `Sentence Transformers` · `FAISS` · `FastAPI` · `React` · `TypeScript`
+
+**Planned Features**
+
+* 🔍 Semantic document search
+* 📄 PDF & text processing
+* 🧠 Local AI embeddings
+* ⚡ Vector similarity search
+* 📚 Personal document library
+* 🎯 Relevant source highlighting
+
+---
+
+## 🧰 Technologies I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,html,css,react,nodejs,flutter,aws,docker,git,github,vscode,figma" />
+</p>
+
+### AI / Data
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -184,7 +187,7 @@ https://github.com/KeonhoWang/ambient-app
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Profile contribution snake" />
 </p>
 
 ---
@@ -192,16 +195,16 @@ https://github.com/KeonhoWang/ambient-app
 ## 📚 Currently Learning
 
 ```text
-React              ████████████████████
-TypeScript         ██████████████████░░
-Full-Stack         ████████████████░░░░
-AI / Machine Learning ███████████████░░░░░
-Cloud Technologies ████████████░░░░░░░░
+React                  ████████████████████
+TypeScript             ██████████████████░░
+Full-Stack Development ████████████████░░░░
+AI / Machine Learning  ███████████████░░░░░
+Cloud Technologies    ████████████░░░░░░░░
 ```
 
 ---
 
-## 🎯 My Development Focus
+## 🎯 Development Focus
 
 <p align="center">
 
