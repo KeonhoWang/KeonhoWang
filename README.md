@@ -1,264 +1,482 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ========================================================= -->
 
-<!--                         HEADER                             -->
+<!--                     KEONHO WANG                           -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--             GitHub Profile README                         -->
 
-<h1 align="center">
-  👋 Hey, I'm <span style="color:#6C63FF;">Keonho Wang</span>
-</h1>
+<!-- ========================================================= -->
 
-<p align="center">
-  <strong>Software Engineering Student · Full-Stack Developer · AI/ML Explorer</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Building ideas into software that people can actually use.</i>
-</p>
+# 👋 Hi, I'm **Keonho Wang**
 
-<p align="center">
-  <a href="https://keonho-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/keonho-wang-908a3b297/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wangkeonho.de@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### `Software Engineering` × `AI/ML` × `Full-Stack`
+
+<br>
+
+**I don't just learn technologies.**
+**I build things with them.**
+
+<br>
+
+<a href="https://keonho-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-6C63FF?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/keonho-wang-908a3b297/">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="mailto:wangkeonho.de@gmail.com">
+<img src="https://img.shields.io/badge/✉️_EMAIL-EA4335?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 Who Am I?
 
-I'm a **Software Engineering student at the University of Europe for Applied Sciences** who enjoys turning ideas into working products.
+I'm a **Software Engineering student at the University of Europe for Applied Sciences** with a passion for turning ideas into practical software.
 
-My interests sit at the intersection of **software engineering, AI, automation, and interactive applications**. I like projects where I can understand how things work under the hood—not just connect an API and call it finished.
-
-I've built projects ranging from **weather applications and Chrome extensions to computer-vision systems**, and I'm currently pushing further into **AI/ML and full-stack development**.
-
-### 💡 How I Like to Build
+I enjoy taking a problem from:
 
 ```text
-Idea
-  ↓
-Understand the problem
-  ↓
-Design the solution
-  ↓
-Build → Test → Break → Fix
-  ↓
-Improve
-  ↓
-Ship 🚀
+💡 Idea
+   ↓
+🔍 Understand the problem
+   ↓
+🧠 Design the solution
+   ↓
+💻 Build it
+   ↓
+🧪 Test it
+   ↓
+🐛 Break it
+   ↓
+🔧 Fix it
+   ↓
+🚀 Improve it
 ```
 
-> **Curiosity drives me. Building teaches me. Problems make me better.**
+My interests have grown from traditional software development into **AI/ML, computer vision, automation, cloud technologies, and full-stack development**.
+
+What matters most to me isn't simply knowing another technology.
+
+> **It's understanding what I can build with it.**
 
 ---
 
-## 🚀 What I'm Building
+# ⚡ What I Build
 
-### 🧠 Echo
+<div align="center">
 
-**Local AI-powered document intelligence**
+|    🧠 AI / ML    |       💻 Software       |   🌐 Web   |     ⚙️ Automation    |
+| :--------------: | :---------------------: | :--------: | :------------------: |
+| Machine Learning | Application Development |    React   |   Python Automation  |
+|  Computer Vision |           APIs          | TypeScript |  Browser Extensions  |
+|    Embeddings    |  Software Architecture  | JavaScript | Computer Interaction |
+|  Semantic Search |     Problem Solving     | HTML / CSS |  Productivity Tools  |
 
-A privacy-focused application that lets users search their documents using natural language instead of filenames or keywords.
-
-`Python` `FAISS` `Sentence Transformers` `FastAPI` `React` `TypeScript`
-
-**Exploring:** embeddings · semantic search · vector databases · AI systems
+</div>
 
 ---
 
-### 🖐️ Hand Gesture Controller
+# 🚀 Featured Projects
 
-**Turning a webcam into an interaction interface**
+## `01` — 🧠 Echo
 
-A computer-vision project that allows users to control their computer using real-time hand gestures.
+### **Local AI Document Intelligence**
 
-`Python` `MediaPipe` `OpenCV` `PyAutoGUI` `NumPy`
+> **Search your files by meaning, not filenames.**
 
-**Features**
+Echo is a local AI-powered document search system designed to help users find information across their documents using natural-language queries.
 
-* 🎵 Media controls
+Instead of searching:
+
+```text
+"machine learning notes.pdf"
+```
+
+Users can ask:
+
+```text
+"What did I write about machine learning model evaluation?"
+```
+
+and retrieve semantically relevant content.
+
+### 🔬 Exploring
+
+`Python` · `Sentence Transformers` · `FAISS` · `FastAPI` · `React` · `TypeScript`
+
+### 🧩 Core Concepts
+
+* 🧠 Text embeddings
+* 🔎 Semantic search
+* 📐 Vector similarity
+* 📄 PDF processing
+* 🗂️ Document indexing
+* ⚡ FastAPI backend
+* 🖥️ React interface
+* 🔐 Local-first AI
+
+**Status:** `🟡 In Development`
+
+---
+
+## `02` — 🖐️ Hand Gesture Controller
+
+### **Turning a Webcam Into an Interface**
+
+A computer-vision system that uses real-time hand tracking to control a computer through gestures.
+
+```text
+Webcam
+   ↓
+OpenCV
+   ↓
+MediaPipe
+   ↓
+Hand Landmarks
+   ↓
+Gesture Recognition
+   ↓
+Computer Interaction
+```
+
+### ✨ Features
+
+* 🎵 Media control
 * 🔊 Volume control
 * ☀️ Brightness control
 * 🖱️ Air Mouse
 * 📸 Screenshot control
 * 🗂️ Browser tab navigation
-* 🎯 Gesture hold protection
-* 📷 Real-time hand tracking
+* 🎯 Hold-to-trigger protection
+* 📷 Real-time camera overlay
+* 🧮 Cursor smoothing
+
+### 🛠️ Built With
+
+`Python` · `MediaPipe` · `OpenCV` · `PyAutoGUI` · `NumPy`
 
 ---
 
-### 🧩 Smart Tab Manager
+## `03` — 🧩 Smart Tab Manager
 
-**Making browser chaos manageable**
+### **Bringing Order to Browser Chaos**
 
-A Chrome extension designed to help users organize, track, and manage their browser sessions.
+A Chrome extension designed to make large numbers of browser tabs easier to organize and manage.
 
-`JavaScript` `Chrome Extension APIs` `HTML` `CSS`
-
-**Features**
-
-* 📁 Tab grouping
-* ⏱️ Time tracking
-* 💾 Session saving
-* 🧹 Duplicate tab management
-* 🖥️ Lightweight popup interface
-
----
-
-### 🌤️ Temposfera
-
-**Weather information, redesigned**
-
-A weather application and website focused on presenting information through a clean and interactive interface.
-
-`JavaScript` `HTML` `CSS` `API Integration`
-
----
-
-## 🧪 Currently Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-* Machine Learning
-* Computer Vision
-* Embeddings
-* Semantic Search
-* AI-assisted development
-
-</td>
-
-<td width="50%">
-
-### ⚡ Software Engineering
-
-* React
-* TypeScript
-* Full-Stack Development
-* REST APIs
-* Docker
-* Cloud Technologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tools I Enjoy Using
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,flutter,docker,aws,git,github,vscode,figma" />
-
-</p>
-
-<p align="center">
-  <code>Python</code> ·
-  <code>Java</code> ·
-  <code>TypeScript</code> ·
-  <code>React</code> ·
-  <code>Node.js</code> ·
-  <code>AWS</code> ·
-  <code>Docker</code> ·
-  <code>OpenCV</code>
-</p>
-
----
-
-## 🎯 My Developer Philosophy
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧠 Learn
-
-Never stop being curious.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔨 Build
-
-Turn knowledge into real projects.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔁 Improve
-
-Every project should teach something new.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Learning Journey
-
-A few courses and certifications that have shaped my current interests:
-
-* 🤖 **Stay Ahead of the AI Curve** — Google / Coursera
-* 🧠 **AI Modeling with Python & Kaggle Datasets**
-* 🚗 **Autonomous Electric Vehicle Control with Python**
-* 📊 **Getting Started with Data** — IBM
-* 🔐 **Getting Started with Cybersecurity** — IBM
-* 📣 **Digital Marketing** — HubSpot Academy
-
----
-
-## 🌍 A Little More About Me
-
-🌏 **Germany 🇩🇪 × South Korea 🇰🇷**
-
-I've had the opportunity to study and live across different cultures, which has shaped how I approach people, teamwork, and problem-solving.
-
-I enjoy working with people from different backgrounds and bringing different perspectives together when building something.
-
-Outside of writing code, I'm usually:
+### ✨ Features
 
 ```text
-☕ Thinking about the next project
-🧪 Experimenting with new technology
-📚 Learning something I don't understand yet
-💻 Building something just because I wondered "Can I do this?"
+📁 Group tabs
+⏱️ Track time
+💾 Save sessions
+🧹 Remove duplicates
+🖥️ Manage everything from a popup
+```
+
+### 🛠️ Built With
+
+`JavaScript` · `HTML` · `CSS` · `Chrome Extension APIs`
+
+---
+
+## `04` — 🌤️ Temposfera
+
+### **Weather, Simplified**
+
+A weather application and website designed around a clean and interactive user experience.
+
+### 🎯 Focus
+
+`API Integration` · `Frontend Development` · `UI/UX`
+
+---
+
+## `05` — 🌌 Ambient App
+
+### **An Interactive Digital Experience**
+
+A web project focused on creating a simple, immersive, and visually engaging digital experience.
+
+**Repository:**
+https://github.com/KeonhoWang/ambient-app
+
+---
+
+# 🧪 Keonho's Lab
+
+> **Small experiments. Weird ideas. Things I build because I want to know how they work.**
+
+This is where I explore technologies outside of traditional coursework.
+
+```text
+🤖 AI Experiments
+        │
+        ├── Machine Learning
+        ├── Embeddings
+        └── AI-assisted development
+
+👁️ Computer Vision
+        │
+        ├── OpenCV
+        ├── MediaPipe
+        └── Real-time interaction
+
+🌐 Web Experiments
+        │
+        ├── React
+        ├── TypeScript
+        └── APIs
+
+⚙️ Automation
+        │
+        ├── Python
+        ├── Browser tools
+        └── Productivity systems
 ```
 
 ---
 
-## 💬 Let's Build Something
+# 🔭 Currently Exploring
 
-I'm always interested in **software engineering, AI, and interesting technical problems**.
+<div align="center">
 
-If you're working on something interesting—or just want to talk about technology—feel free to reach out.
+### 🤖 Artificial Intelligence
 
-<p align="center">
+`Machine Learning`
+`Computer Vision`
+`Embeddings`
+`Semantic Search`
+`AI Applications`
 
-<a href="https://keonho-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-6C63FF?style=for-the-badge" />
-</a>
+<br>
 
-<a href="https://www.linkedin.com/in/keonho-wang-908a3b297/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge" />
-</a>
+### ⚡ Modern Software Engineering
 
-</p>
+`React`
+`TypeScript`
+`Node.js`
+`REST APIs`
+`Docker`
+`AWS`
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>Build something useful. Learn something new. Repeat. 🚀</strong>
-</p>
+# 🛠️ My Toolkit
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,dart,html,css" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
+
+### AI / Data / Vision
+
+<img src="https://skillicons.dev/icons?i=python,opencv" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+### Cloud & Development Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
+---
+
+# 🧠 How I Think About Engineering
+
+<div align="center">
+
+### 01 — **Start With the Problem**
+
+Don't build technology just because it's interesting.
+
+<br>
+
+↓
+
+<br>
+
+### 02 — **Understand the System**
+
+Know what's happening underneath the abstraction.
+
+<br>
+
+↓
+
+<br>
+
+### 03 — **Build**
+
+Turn the idea into something real.
+
+<br>
+
+↓
+
+<br>
+
+### 04 — **Break It**
+
+Find the problems before users do.
+
+<br>
+
+↓
+
+<br>
+
+### 05 — **Improve**
+
+Better code. Better UX. Better architecture.
+
+<br>
+
+↓
+
+<br>
+
+### 🚀 **Ship It**
+
+</div>
+
+---
+
+# 📈 My Learning Direction
+
+```text
+                    SOFTWARE ENGINEERING
+                           │
+            ┌──────────────┼──────────────┐
+            │              │              │
+           AI             WEB           CLOUD
+            │              │              │
+       ┌────┴────┐    ┌────┴────┐    ┌────┴────┐
+       │         │    │         │    │         │
+      ML      Vision React      TS   AWS     Docker
+       │         │    │         │    │         │
+       └────┬────┘    └────┬────┘    └────┬────┘
+            │              │              │
+            └──────────────┼──────────────┘
+                           │
+                    BUILD REAL THINGS
+```
+
+---
+
+# 🌍 Beyond Code
+
+Technology is only one part of how I approach problems.
+
+My experiences across different environments have taught me the importance of:
+
+```text
+🤝 Collaboration
+🗣️ Communication
+🧠 Critical Thinking
+🎯 Leadership
+🔄 Adaptability
+🛠️ Problem Solving
+```
+
+I enjoy working with people from different backgrounds and combining different perspectives to create better results.
+
+---
+
+# 📚 Learning & Certifications
+
+|    | Certification / Course                              |
+| -- | --------------------------------------------------- |
+| 🤖 | **Stay Ahead of the AI Curve** — Google / Coursera  |
+| 🧠 | **AI Modeling with Python & Kaggle Datasets**       |
+| 🚗 | **Autonomous Electric Vehicle Control with Python** |
+| 📊 | **Getting Started with Data** — IBM                 |
+| 🔐 | **Getting Started with Cybersecurity** — IBM        |
+| 📣 | **Digital Marketing** — HubSpot Academy             |
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm currently interested in opportunities where I can:
+
+```text
+💻 Write real software
+        +
+🧠 Solve meaningful technical problems
+        +
+🤖 Explore AI
+        +
+🤝 Work with a strong team
+        +
+📚 Keep learning
+```
+
+My goal is simple:
+
+> **Become a developer who can take an idea, understand the problem, and turn it into useful technology.**
+
+---
+
+# 💬 Let's Connect
+
+<div align="center">
+
+### Have an interesting idea?
+
+### Let's build something.
+
+<br>
+
+<a href="https://keonho-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-6C63FF?style=for-the-badge&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/keonho-wang-908a3b297/">
+<img src="https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="mailto:wangkeonho.de@gmail.com">
+<img src="https://img.shields.io/badge/✉️_SEND_ME_AN_EMAIL-EA4335?style=for-the-badge" />
+</a>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `BUILD → LEARN → BREAK → IMPROVE → REPEAT`
+
+<br>
+
+**Thanks for stopping by. 🚀**
+
+</div>
